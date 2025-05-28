@@ -1,0 +1,42 @@
+{
+    "fish_types": [
+        {
+            "name": "Narwhal",
+            "leverage": 150.0
+        },
+        {
+            "name": "Shimmering Silverside",
+            "leverage": 111.0
+        },
+        {
+            "name": "Infant Giant Seadevil",
+            "leverage": 2.94
+        },
+        {
+            "name": "Apex Leviathan",
+            "leverage": 0.9
+        },
+        {
+            "name": "Beluga",
+            "leverage": 66.667
+        },
+        {
+            "name": "Tartaruga",
+            "leverage": 2.5
+        }
+    ],
+    "mutation_types": [
+        {
+            "name": "Prismize",
+            "leverage": 8.0
+        },
+        {
+            "name": "Astral",
+            "leverage": 6.0
+        },
+        {
+            "name": "Chaotic",
+            "leverage": 12.0
+        }
+    ]
+}
