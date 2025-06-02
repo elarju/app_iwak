@@ -23,6 +23,34 @@
         {
             "name": "Tartaruga",
             "leverage": 2.5
+        },
+        {
+            "name": "Crystallized Seadragon",
+            "leverage": 0.29
+        },
+        {
+            "name": "Blue Whale",
+            "leverage": 0.1
+        },
+        {
+            "name": "Crowned Anglerfish",
+            "leverage": 1.22
+        },
+        {
+            "name": "Megalodon",
+            "leverage": 0.15
+        },
+        {
+            "name": "Magician Narwhal",
+            "leverage": 50.0
+        },
+        {
+            "name": "Typhoon Tailfin",
+            "leverage": 2.6
+        },
+        {
+            "name": "Twilight Tentaclefish",
+            "leverage": 17.3
         }
     ],
     "mutation_types": [
@@ -37,6 +65,10 @@
         {
             "name": "Chaotic",
             "leverage": 12.0
+        },
+        {
+            "name": "Electric Shock",
+            "leverage": 3.5
         }
     ]
 }
